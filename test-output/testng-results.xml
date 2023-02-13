@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-06T17:53:02 IST" name="Default suite" finished-at="2022-12-06T17:53:02 IST" duration-ms="76">
+    <groups>
+    </groups>
+    <test started-at="2022-12-06T17:53:02 IST" name="Default test" finished-at="2022-12-06T17:53:02 IST" duration-ms="76">
+      <class name="test.testClass">
+        <test-method is-config="true" signature="y()[pri:0, instance:test.testClass@58d75e99]" started-at="2022-12-06T17:53:02 IST" name="y" finished-at="2022-12-06T17:53:02 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- y -->
+        <test-method signature="n()[pri:0, instance:test.testClass@58d75e99]" started-at="2022-12-06T17:53:02 IST" name="n" finished-at="2022-12-06T17:53:02 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- n -->
+        <test-method signature="x()[pri:0, instance:test.testClass@58d75e99]" started-at="2022-12-06T17:53:02 IST" name="x" finished-at="2022-12-06T17:53:02 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- x -->
+        <test-method signature="o()[pri:1, instance:test.testClass@58d75e99]" started-at="2022-12-06T17:53:02 IST" name="o" finished-at="2022-12-06T17:53:02 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- o -->
+        <test-method signature="p()[pri:2, instance:test.testClass@58d75e99]" started-at="2022-12-06T17:53:02 IST" name="p" finished-at="2022-12-06T17:53:02 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- p -->
+        <test-method is-config="true" signature="z()[pri:0, instance:test.testClass@58d75e99]" started-at="2022-12-06T17:53:02 IST" name="z" finished-at="2022-12-06T17:53:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- z -->
+        <test-method is-config="true" signature="m()[pri:0, instance:test.testClass@58d75e99]" started-at="2022-12-06T17:53:02 IST" name="m" finished-at="2022-12-06T17:53:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m -->
+      </class> <!-- test.testClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
